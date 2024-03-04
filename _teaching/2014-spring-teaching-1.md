@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Workshop - LaTeX "
 collection: teaching
 type: "LaTeX Workshop"
 permalink: /teaching/2014-spring-teaching-1.md
