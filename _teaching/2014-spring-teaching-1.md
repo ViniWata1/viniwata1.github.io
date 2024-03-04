@@ -2,7 +2,7 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "LaTeX Workshop"
-permalink: /teaching/2023-workshop-2
+permalink: /teaching/2014-spring-teaching-1.md
 venue: "Universidade de Brasília, Department"
 date: 2023-01-01
 location: "Brasília, Brazil"
