@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "Brasília, Brazil"
 ---
 
-Description:
+Description: Workshop about the basics of LaTeX, including beamer, formating and other topics. 
 
 YouTube Video
 ======
