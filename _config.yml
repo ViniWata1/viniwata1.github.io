@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Brazil"
+locale                   : "en-US"
 title                    : "Vinícius Watanabe"
 title_separator          : "-"
-name                     : Vinícius de Oliveira Watanabe
+name                     : &name "Vinícius de Oliveira Watanabe"
 description              : &description "personal description"
-url                      : https://vwatanabe.github.io
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,8 +27,8 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
-  uri              : vwatanabe.github.io
-  email            : "viniciusowatanabe@gmail.com" 
+  uri              : # URL
+  email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
